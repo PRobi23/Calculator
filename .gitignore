@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -60,3 +61,13 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+=======
+.
+..
+CalculatorUIKit.xcodeproj/project.xcworkspace/xcuserdata/rk.xcuserdatad/UserInterfaceState.xcuserstate
+CalculatorUIKit.xcodeproj/xcuserdata/rk.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+CalculatorUIKit.xcodeproj/xcuserdata/rk.xcuserdatad/xcschemes/xcschememanagement.plist
+.DS_Store
+CalculatorUIKit.xcodeproj/project.xcworkspace/xcuserdata/
+CalculatorUIKit.xcodeproj/xcuserdata/
+>>>>>>> f3b72d4 (Initial Commit)
